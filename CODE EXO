@@ -1,0 +1,14 @@
+######################################################################################
+#                       EVOC3 PYTHON CODING EXERCICE DE MAISON                       #
+#                         OLANLO Komlan sylvestre @kalal31                           #
+######################################################################################
+def multipliepar(x,y):
+   return x*y
+def multiplie(z):
+ for i in range(0,11):
+    print(i,"x",z,"=",i*z)
+#Exemples 
+#Multiplication de 2 et de 6
+#print(multipliepar(2,6))
+#Table de Multiplication de 5
+#multiplie(2)
